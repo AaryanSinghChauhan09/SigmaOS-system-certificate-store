@@ -3,7 +3,7 @@ name = "SigmaOS-system-certificate-store"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "system-certificate-store component"
+description = "System Certificate Store"
 upstream = []
 
 [contract]
