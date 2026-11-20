@@ -6,6 +6,7 @@
 
 use std::collections::BTreeMap;
 use std::fmt;
+pub mod sigmacertificatemanager;
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct Store {
